@@ -141,9 +141,9 @@
             </options>
             <connections>
                 <connection>
-                    <name>Alex VPN</name>
+                    <name>New Alex VPN</name>
                     <description></description>
-                    <server>falx.uxcenters.com:4433</server>
+                    <server>8.8.8.8:4433</server>
                     <username></username>
                     <single_user_mode>0</single_user_mode>
                     <ui>
@@ -184,9 +184,9 @@
                     </on_disconnect>
                 </connection>
                 <connection>
-                    <name>Cairo VPN</name>
+                    <name>New Cairo VPN</name>
                     <description></description>
-                    <server>196.219.53.139:4433</server>
+                    <server>8.8.8.8:4433</server>
                     <username></username>
                     <single_user_mode>0</single_user_mode>
                     <ui>
