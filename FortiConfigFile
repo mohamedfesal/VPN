@@ -184,7 +184,7 @@
                     </on_disconnect>
                 </connection>
                 <connection>
-                    <name>New Cairo VPN</name>
+                    <name>Cairo VPN</name>
                     <description></description>
                     <server>https://mycairooffice.intelcia.com:4433</server>
                     <username></username>
