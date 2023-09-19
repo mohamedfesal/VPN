@@ -143,7 +143,7 @@
                 <connection>
                     <name>Alex VPN</name>
                     <description></description>
-                    <server>https://myalexoffice.intelcia.com:4433</server>
+                    <server>myalexoffice.intelcia.com:4433</server>
                     <username></username>
                     <single_user_mode>0</single_user_mode>
                     <ui>
@@ -186,7 +186,7 @@
                 <connection>
                     <name>Cairo VPN</name>
                     <description></description>
-                    <server>https://mycairooffice.intelcia.com:4433</server>
+                    <server>mycairooffice.intelcia.com:4433</server>
                     <username></username>
                     <single_user_mode>0</single_user_mode>
                     <ui>
